@@ -1,4 +1,4 @@
-#PENENTUAN KELULUSAN
+'''#PENENTUAN KELULUSAN
 print('Penentuan Kelulusan')
 print('...................')
 
@@ -11,4 +11,4 @@ else:
     Lulus=False
 
 #Tampilkan Hasil
-print('Lulus= ',Lulus)
+print('Lulus= ',Lulus)'''
